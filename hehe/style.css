@@ -1,0 +1,35 @@
+body{
+    background-color: pink;
+    color: lavender;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:palevioletred
+}
+
+h2 {
+    color:aliceblue
+}
+
+ul {display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+a{
+color:rosybrown;
+text-decoration: none;
+}
+
+img {
+    width: 700px;
+    height: 500px;
+    border-radius: 10%;
+    border:solid palevioletred
+}
+
+.center{
+text-align: center;
+
+}
